@@ -11,4 +11,5 @@
 - 📫 How to reach me: shivtechviral@gmail.com
 - 😄 Pronouns: Shivansh
 - ⚡ Fun fact: I can't end up my day without playing "COC".
+- <img src="https://github-readme-stats.vercel.app/api?username=Shivansh1200&&show_icons=true&title_color=ffffff&icon_color=FFFF33&text_color=333CFF&bg_color=33FF33">
 
