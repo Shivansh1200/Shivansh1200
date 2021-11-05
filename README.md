@@ -2,6 +2,7 @@
 
 
 **Shivansh1200/Shivansh1200** is ✨ **My Portfolio **✨ repository : `README.md` 
+**Personal Blog:** https://determined-jennings-4b4887.netlify.app
 
 - 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning Python.
